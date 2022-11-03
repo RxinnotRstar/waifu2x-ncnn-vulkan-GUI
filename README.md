@@ -11,3 +11,7 @@ _（我删除了存储库，因为我觉得waifu2x模型从一个侵犯版权的
 今天（2022-09-27）我想着看看github上有没有这个软件的更新，结果一看，好家伙，删库了，于是就有了这个仓库。
 
 _Today (2022-09-27), I wanted to see if there was an update to the software on github, but the repository was deleted, and the repository was created._
+
+我没有能力更新软件，所以非常遗憾我不能修复你提的bug。我只会发布一些翻译上的修补。
+
+_I have no ability to update the software, so I am very sorry that I cannot fix the bug(s) from you. I will only release some fixes on translation._
